@@ -3,8 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Node.js 18+](https://img.shields.io/badge/node-18+-green.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-> **Engineered by {{AUTHOR_NAME}}**
+> *Original concept by **The Solo Entrepreneur** | Enterprise Refactor & Engineering by **Ahmed Ali***
 > 
 > An autonomous content pipeline leveraging AI, Web Scraping, and Headless Browsers to build, design, and schedule a complete month of high-converting content for founders and agencies.
 

@@ -1,10 +1,10 @@
 {
-  "BRAND_NAME": "Ecotrustia Solutions",
-  "BRAND_SHORT_NAME": "Ecotrustia",
-  "AUTHOR_NAME": "Ahmed",
-  "AUTHOR_TYPE": "Ecotrustia Solutions",
-  "BRAND_DOMAIN": "AI's impact on work, income, skills, and the future",
-  "TARGET_AUDIENCE": "ambitious generalists",
+  "BRAND_NAME": "[YOUR COMPANY NAME]",
+  "BRAND_SHORT_NAME": "[COMPANY SHORT NAME]",
+  "AUTHOR_NAME": "[YOUR NAME]",
+  "AUTHOR_TYPE": "[AUTHOR TITLE/ROLE]",
+  "BRAND_DOMAIN": "[YOUR INDUSTRY OR NICHE]",
+  "TARGET_AUDIENCE": "[YOUR TARGET AUDIENCE]",
   "POST_SCHEDULE_COMPANY": "schedule_company.cjs",
   "POST_SCHEDULE_PERSONAL": "schedule_personal.cjs"
 }

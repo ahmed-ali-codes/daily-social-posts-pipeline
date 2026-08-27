@@ -1,0 +1,53 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Environment variables (SECURITY - DO NOT COMMIT .env)
+.env
+.env.local
+
+# Mac
+.DS_Store
+
+# Generated Text Posts
+*_posts_today.txt
+*_posts_*.txt
+*_content_report.md
+
+# Generated Images and PDFs
+linkedin-infographic-20*.png
+instagram-carousel-*.png
+instagram-image-*.png
+*.pdf
+
+# Rendered HTML and temp build folders
+instagram-carousel-*.html
+instagram-image-*.html
+carousel-routine/temp/
+carousel-routine/output/
+
+# Runtime JSON state and fetched data
+reddit_data.json
+ai_news_data.json
+carousel_data.json
+infographic_data.json
+posts_today*.json
+hook_log.json
+carousel-hook-log.json
+infographic-run-log.json
+performance-run-log.json
+scheduled_history.json
+
+# Debugging outputs
+*debug.png
+reddit_debug_body.html
+
+# Antigravity agent folders
+.agents/
